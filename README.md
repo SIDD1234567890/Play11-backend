@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Play11 Backend
 
 Description-
@@ -115,4 +117,3 @@ Contributing-
 3. Commit your changes: git commit -m 'Add new feature'.
 4. Push to the branch: git push origin feature-name.
 5. Open a pull request.
-
